@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.color {
+  background-color: rgb(84, 197, 159);
+  color: white;
+}
+.links {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
